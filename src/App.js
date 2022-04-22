@@ -1,5 +1,4 @@
 import Navbar from "./components/Navbar";
-import Menu from "./components/Menu";
 import Header from "./components/Header";
 import ContentOne from "./components/ContentOne";
 import { Container } from "reactstrap";
@@ -12,7 +11,6 @@ function App() {
       <Navbar />
       <Header />
       <ContentOne />
-      {/* <Menu /> */}
     </Container>
   );
 }

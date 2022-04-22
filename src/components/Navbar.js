@@ -4,7 +4,6 @@ import {
   NavItem,
   NavbarToggler,
   Collapse,
-  NavLink,
   Nav,
   NavbarBrand,
   UncontrolledDropdown,
