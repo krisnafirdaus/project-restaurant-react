@@ -3,16 +3,16 @@ import Logo from "../assets/imgs/logo.svg";
 
 export default function Header() {
   return (
-    <header class="header">
-      <div class="overlay">
+    <header className="header">
+      <div className="overlay">
         <img
           src={Logo}
           alt="Download free bootstrap 4 landing page, free boootstrap 4 templates, Download free bootstrap 4.1 landing page, free boootstrap 4.1.1 templates, Pigga Landing page"
-          class="logo"
+          className="logo"
         />
-        <h1 class="subtitle">Welcome To Our Restaurant</h1>
-        <h1 class="title">Really Fresh &amp; Tasty</h1>
-        <a class="btn btn-primary mt-3" href="#book-table">
+        <h1 className="subtitle">Welcome To Our Restaurant</h1>
+        <h1 className="title">Really Fresh &amp; Tasty</h1>
+        <a className="btn btn-primary mt-3" href="#book-table">
           Book A Table
         </a>
       </div>
